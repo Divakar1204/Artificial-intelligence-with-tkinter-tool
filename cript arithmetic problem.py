@@ -137,4 +137,7 @@ if isSolvable(arr, S):
 else:
 	print("No")
 	
-	# This code is contributed by mukesh07.
+	
+output :-
+============================= RESTART: V:\cript.py =============================
+Yes	# This code is contributed by mukesh07.
