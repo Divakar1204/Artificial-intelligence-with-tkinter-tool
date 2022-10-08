@@ -46,4 +46,10 @@ if __name__ == "__main__":
 	values = [3, 5, 6, 9, 1, 2, 0, -1]
 	print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 	
+output :-
+	
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
 
+======================= RESTART: V:\alpha-beta pruning.py ======================
+The optimal value is : 5
